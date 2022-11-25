@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   jx-python-demo:
   - apiVersion: v1
+    appVersion: 0.0.10
+    created: "2022-11-25T13:51:39.467085467Z"
+    description: A Helm chart for Kubernetes
+    digest: 5ca8998672cdba3251c6a55e184d2aa17fa2cbc169e2b64af6aeba1905b12024
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: jx-python-demo
+    urls:
+    - jx-python-demo-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v1
     appVersion: 0.0.9
-    created: "2022-11-24T20:36:19.181363986Z"
+    created: "2022-11-25T13:51:39.467576008Z"
     description: A Helm chart for Kubernetes
     digest: 363cc2c47088ed8fd3e905f67dd3ddd184d389b21d4748c29a44733eedfac2de
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -11,4 +21,4 @@ entries:
     urls:
     - jx-python-demo-0.0.9.tgz
     version: 0.0.9
-generated: "2022-11-24T20:36:19.180495454Z"
+generated: "2022-11-25T13:51:39.466524954Z"
